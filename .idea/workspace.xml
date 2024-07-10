@@ -4,7 +4,67 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2f0e5a-2f94-4fca-b2e6-4de4bc74de3e" name="Changes" comment="" />
+    <list default="true" id="43a4ea2d-3fb5-4417-94db-f530adb273be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearnAndroid.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/androidTest/java/com/example/lab9/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/java/com/example/lab9/CongViec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/java/com/example/lab9/CongViecAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/java/com/example/lab9/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/java/com/example/lab9/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/layout/dialog_add_job.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/layout/dong_cong_viec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/menu/add_congviec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/app/src/test/java/com/example/lab9/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/settings.gradle.kts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +78,9 @@
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
-  "associatedIndex": 1
+  "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2gYCBcKFIwBZ7GQ9C6l8ASzHYry" />
+  <component name="ProjectId" id="2j2CyXEcb9gnHEeDjbbbe6bz5ii" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,21 +91,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/LearnAndroid/lab2"
+    "last_opened_file_path": "D:/LearnAndroid/PEDemo"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fb2f0e5a-2f94-4fca-b2e6-4de4bc74de3e" name="Changes" comment="" />
-      <created>1715864991669</created>
+      <changelist id="43a4ea2d-3fb5-4417-94db-f530adb273be" name="Changes" comment="" />
+      <created>1720576045272</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715864991669</updated>
+      <updated>1720576045272</updated>
     </task>
     <servers />
   </component>
